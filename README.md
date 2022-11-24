@@ -1,4 +1,4 @@
-Olá! O meu nome é Jonatas e sou desenvolvedor Java!
+Olá! O meu nome é Jonatas e sou desenvolvedor!
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Oi 👋
