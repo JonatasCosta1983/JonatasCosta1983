@@ -2,10 +2,10 @@ Olá! O meu nome é Jonatas e sou desenvolvedor!
 
 
 ### Oi 👋
-Sou formado em análise e desenvolvimento de sistemas, possuou algumas certificações na área de forense digital e estou em busca de oportunidades e colaboração em projetos relacionados à programação, forense digtal e afins.
+Sou formado em análise e desenvolvimento de sistemas, possuo algumas certificações na área de forense digital e estou em busca de oportunidades e colaboração em projetos relacionados à programação, forense digtal e afins.
 - 🔭 Atualmente, estou trabalhando com aplicações para celular.
-- 🌱 Atualmente estou aprendendo back-end em Java, back-end.
-- 🤝 Estou procurando colaborar em projetos back-end. 
+- 🌱 Principais linguagens do meu dia a dia back-end em Java, Dart com Flutter.
+- 🤝 Procuro vaga como programador Jr ou analista forense  digital Jr. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JonatasCosta1983)
 
